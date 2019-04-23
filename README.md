@@ -4,7 +4,9 @@ Bert_Notebook.ipynb: Contains model and classifier for using BERT (includes over
 
 Tweet_data.py: Contains labelling preprocessing of twitter data
 
-bert_client_classify.py: Contains experimental method client to obtain embeddings after setting up a server which runs BERT
+bert_client_classify.py: Contains experimental method (client-side) to obtain embeddings after setting up a server which runs BERT
+
+API_feature.py: Obtains technical features from alphavantage and categorizes them into the correct signals. (Not implemented in final project)
 
 combine_data.py and combine_files.py: Combines the generated individual stocks into one file
 
